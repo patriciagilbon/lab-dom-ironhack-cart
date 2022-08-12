@@ -48,10 +48,14 @@ table input[type='number'] {
 }
 
 .btn-success,
-.btn-remove {
+.btn-remove, 
+.btn-gray {
   color: #fff;
 }
 
+.btn-gray {
+  background-color: gray;
+}
 .btn-success {
   background-color: #2cc5fa;
 }
